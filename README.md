@@ -38,4 +38,10 @@ public static void main(String[] args ) throws InterruptedException {
 	int wpm = (int) ((((double) numChars / 5) / seconds) * 60 );
 	
 	System.out.println("Your wpm is " + wpm + "!");
-	
+Output	
+3 
+2
+1
+Hammer biscuit biscuit hammer elephant hello biscuit went envelope microscope
+Hi good morning
+Your wpm is 36
